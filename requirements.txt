@@ -1,0 +1,3 @@
+kiteconnect
+pandas
+python-dotenv
