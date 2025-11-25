@@ -14,7 +14,7 @@ A Python-based automated trading bot for the Zerodha Kite Connect platform. This
 ## Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/zerodha-trading-bot.git
+    git clone https://github.com//zerodha-trading-bot.git
     cd zerodha-trading-bot
     ```
 2.  Install dependencies:
@@ -22,7 +22,6 @@ A Python-based automated trading bot for the Zerodha Kite Connect platform. This
     pip install -r requirements.txt
     ```
 3.  **Configuration**:
-    *   Rename `.env.example` to `.env` (or create a new `.env` file).
     *   Add your Zerodha API credentials:
         ```text
         ZERODHA_API_KEY=your_api_key
